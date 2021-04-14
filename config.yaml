@@ -86,6 +86,8 @@ params:
           url: "https://twitter.com/0xbkomi"
         - name: github
           url: "https://github.com/bkomi"
+        - name: email
+          url: "mailto:bkomalsai@gmail.com"
 
     analytics:
         google:
@@ -120,6 +122,10 @@ menu:
         - identifier: tags
           name: /tags
           url: /tags/
+          weight: 20
+        - identifier: books
+          name: /books
+          url: /books/
           weight: 20
         - identifier: about
           name: /about

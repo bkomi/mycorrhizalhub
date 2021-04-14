@@ -13,7 +13,7 @@ hidemeta: false
 comments: false
 description: ""
 disableHLJS: true # to disable highlightjs
-disableShare: false
+disableShare: true
 disableHLJS: false
 hideSummary: false
 searchHidden: true
@@ -27,9 +27,9 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/bkomi/mycorrhizalhub"
     Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+    appendFilePath: false # to append file path to Edit link
 ---
 
 Writing 'About me' is hard. You should give it a try (No, really, go start a blog and write an about me page). I love **gwern's** [about page](https://www.gwern.net/Links) and will redesign mine with similar sophistication going forward. That said, here's a compressed version.
@@ -44,9 +44,14 @@ Writing 'About me' is hard. You should give it a try (No, really, go start a blo
 >
 > Bachelor's **Computer Science**(18') from **BITS Pilani, Pilani Campus**
 
+
+#### About the blog -
+
+Most articles will be around topics listed below. The bold ones carry more weight. [This page](/posts/why/) lists the purpose of this blog. I will soon include a 'principles' page.
+
 #### Interesting terms -
 
-> technology, **engineering**, **computer science**, **crypto**, **blockchain**, AI, distributed systems, applied cryptography
+> technology, **engineering**, **computer science**, **crypto**, **blockchain**, **coding**, distributed systems, applied cryptography, AI/ML
 >
 > economics, cryptoeconomics, startups, behavioural economics, **incentive design**, survival strategies 
 >
@@ -54,7 +59,7 @@ Writing 'About me' is hard. You should give it a try (No, really, go start a blo
 >
 > systems thinking, **first-principles**, abstraction, mental models, books
 >
-> philosophy, **meditation**, nootropics, exercise, creativity
+> philosophy, **meditation**, nootropics, exercise, creativity, lucid dreaming
 >
 > **[positive-sum](https://twitter.com/naval/status/1002103360646823936) [infinite](https://g.co/kgs/mSqwy6) games**
 >

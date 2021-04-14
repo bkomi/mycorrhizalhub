@@ -27,9 +27,9 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/bkomi/mycorrhizalhub"
     Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+    appendFilePath: false # to append file path to Edit link
 ---
 
 Common reasons to blog - [kauri](https://kauri.io/#communities/Documentation%20and%20technical%20communication/why-do-people-write/)
@@ -44,7 +44,7 @@ While all the reasons mentioned are valid, some resonate more with me:
 
     Doing things in the open means an extra BS filter + feedback (do reach out for that).
 
-3. **Learn**
+3. **To learn**
  
     > *"If you want to learn something, read about it. If you want to understand something, write about it. If you want to master something, teach it."*
     >
