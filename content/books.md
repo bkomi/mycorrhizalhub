@@ -117,7 +117,7 @@ Books/Knowledge Sources that stand out to me:
 51. Psychology of Money
 52. Thinking, Fast and Slow
 53. Influnece: Psychology of Persuasion
-54. 
+54. To be continued...
 
 
 
