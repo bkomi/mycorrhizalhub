@@ -36,7 +36,7 @@ Writing 'About me' is hard. You should give it a try (No, really, go start a blo
 
 #### Background -
 
-> Currently lost in and navigating the **crypto/blockchain** rabbit hole.
+> Currently off-the-grid, exploring stuff.
 >
 > Previous Life - **Engineer & Cofounder** at [**Cognirel**](http://cognirel.com/) ([acquired](https://www.techinasia.com/dailyhunts-parent-firm-acquires-cognirel-technologies-ai-lab) by Dailyhunt)
 >
