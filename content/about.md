@@ -40,7 +40,7 @@ Writing 'About me' is hard. You should give it a try (No, really, go start a blo
 >
 > Previous Life - **Engineer & Cofounder** at [**Cognirel**](http://cognirel.com/) ([acquired](https://www.techinasia.com/dailyhunts-parent-firm-acquires-cognirel-technologies-ai-lab) by Dailyhunt)
 >
-> Ex-Flipkart **Software Engineer**
+> **Software Engineer** at Flipkart
 >
 > Bachelor's **Computer Science**(18') from **BITS Pilani, Pilani Campus**
 
